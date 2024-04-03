@@ -1,8 +1,6 @@
-fuzzywuzzy
+streamlit
 pandas
 plotly
-streamlit
-streamlit-aggrid
+numpy
 streamlit_extras
-pdfminer
-
+pdfminer.six
