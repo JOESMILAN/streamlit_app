@@ -1,0 +1,100 @@
+Date,Expenses,Category,Amount,Municipality,Province,Region,ID
+1/15/2020,Transportation,Survival,41,Quezon City,Metro Manila,National Capital Region,E2020-1
+1/15/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-2
+1/16/2020,Food/Drinks,Optional,35,Quezon City,Metro Manila,National Capital Region,E2020-3
+1/16/2020,Eating/Going Out,Optional,139,Quezon City,Metro Manila,National Capital Region,E2020-4
+1/16/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-5
+1/16/2020,Grocery,Survival,1174.93,Quezon City,Metro Manila,National Capital Region,E2020-6
+1/18/2020,Home,Obligation,300,Quezon City,Metro Manila,National Capital Region,E2020-7
+1/18/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-8
+1/19/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-9
+1/19/2020,Grocery,Survival,133.55,Quezon City,Metro Manila,National Capital Region,E2020-10
+1/19/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-11
+1/20/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-12
+1/20/2020,Grocery,Survival,77.17,Quezon City,Metro Manila,National Capital Region,E2020-13
+1/20/2020,Electricity/Water,Obligation,551,Quezon City,Metro Manila,National Capital Region,E2020-14
+1/20/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-15
+1/21/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-16
+1/21/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-17
+1/22/2020,Phone/Internet,Optional,50,Quezon City,Metro Manila,National Capital Region,E2020-18
+1/22/2020,Eating/Going Out,Optional,96,Quezon City,Metro Manila,National Capital Region,E2020-19
+1/22/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-20
+1/22/2020,Transportation,Survival,46,Quezon City,Metro Manila,National Capital Region,E2020-21
+1/23/2020,Food/Drinks,Optional,35,Quezon City,Metro Manila,National Capital Region,E2020-22
+1/23/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-23
+1/23/2020,Grocery,Survival,174.75,Quezon City,Metro Manila,National Capital Region,E2020-24
+1/24/2020,Clothing/Shoes/Personal Items,Optional,802,Quezon City,Metro Manila,National Capital Region,E2020-25
+1/25/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-26
+1/25/2020,Food/Drinks,Optional,15,Quezon City,Metro Manila,National Capital Region,E2020-27
+1/26/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-28
+1/26/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-29
+1/27/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-30
+1/27/2020,Grocery,Survival,119,Quezon City,Metro Manila,National Capital Region,E2020-31
+1/27/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-32
+1/28/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-33
+1/28/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-34
+1/29/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-35
+1/29/2020,Phone/Internet,Optional,50,Quezon City,Metro Manila,National Capital Region,E2020-36
+1/29/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-37
+1/29/2020,Eating/Going Out,Optional,139,Quezon City,Metro Manila,National Capital Region,E2020-38
+1/29/2020,Food/Drinks,Optional,15,Quezon City,Metro Manila,National Capital Region,E2020-39
+1/29/2020,Grocery,Survival,88.3,Quezon City,Metro Manila,National Capital Region,E2020-40
+1/30/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-41
+1/31/2020,Grocery,Survival,940.05,Quezon City,Metro Manila,National Capital Region,E2020-42
+1/31/2020,Electricity/Water,Obligation,130.68,Quezon City,Metro Manila,National Capital Region,E2020-43
+1/31/2020,Transportation,Survival,10,Quezon City,Metro Manila,National Capital Region,E2020-44
+1/31/2020,Food/Drinks,Optional,5,Quezon City,Metro Manila,National Capital Region,E2020-45
+2/1/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-46
+2/2/2020,Transportation,Survival,20,Quezon City,Metro Manila,National Capital Region,E2020-47
+2/2/2020,Eating/Going Out,Optional,42,Quezon City,Metro Manila,National Capital Region,E2020-48
+2/2/2020,Transportation,Survival,28,Quezon City,Metro Manila,National Capital Region,E2020-49
+2/2/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-50
+2/3/2020,Food/Drinks,Optional,30,Quezon City,Metro Manila,National Capital Region,E2020-51
+2/3/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-52
+2/3/2020,Grocery,Survival,96.35,Quezon City,Metro Manila,National Capital Region,E2020-53
+2/3/2020,Transportation,Survival,45,Quezon City,Metro Manila,National Capital Region,E2020-54
+2/4/2020,Food/Drinks,Obligation,30,Quezon City,Metro Manila,National Capital Region,E2020-55
+2/4/2020,Eating/Going Out,Optional,89,Quezon City,Metro Manila,National Capital Region,E2020-56
+2/4/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-57
+2/4/2020,Debt repayment,Obligation,18,Quezon City,Metro Manila,National Capital Region,E2020-58
+2/4/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-59
+2/5/2020,Eating/Going Out,Optional,11,Quezon City,Metro Manila,National Capital Region,E2020-60
+2/5/2020,Eating/Going Out,Optional,79,Quezon City,Metro Manila,National Capital Region,E2020-61
+2/5/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-62
+2/5/2020,Phone/Internet,Optional,50,Quezon City,Metro Manila,National Capital Region,E2020-63
+2/5/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-64
+2/6/2020,Food/Drinks,Optional,30,Quezon City,Metro Manila,National Capital Region,E2020-65
+2/6/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-66
+2/6/2020,Food/Drinks,Optional,50,Quezon City,Metro Manila,National Capital Region,E2020-67
+2/7/2020,Food/Drinks,Optional,60,Quezon City,Metro Manila,National Capital Region,E2020-68
+2/8/2020,Food/Drinks,Optional,24,Quezon City,Metro Manila,National Capital Region,E2020-69
+2/8/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-70
+2/9/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-71
+2/9/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-72
+2/9/2020,Food/Drinks,Optional,15,Quezon City,Metro Manila,National Capital Region,E2020-73
+2/10/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-74
+2/10/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-75
+2/11/2020,Eating/Going Out,Optional,30,Quezon City,Metro Manila,National Capital Region,E2020-76
+2/11/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-77
+2/11/2020,Grocery,Survival,75,Quezon City,Metro Manila,National Capital Region,E2020-78
+2/11/2020,Phone/Internet,Optional,100,Quezon City,Metro Manila,National Capital Region,E2020-79
+2/11/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-80
+2/12/2020,Food/Drinks,Optional,30,Quezon City,Metro Manila,National Capital Region,E2020-81
+2/12/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-82
+2/12/2020,Transportation,Survival,18,Quezon City,Metro Manila,National Capital Region,E2020-83
+2/13/2020,Transportation,Survival,18,Quezon City,Metro Manila,National Capital Region,E2020-84
+2/13/2020,Eating/Going Out,Optional,487,Quezon City,Metro Manila,National Capital Region,E2020-85
+2/13/2020,Hair Cut,Survival,50,Quezon City,Metro Manila,National Capital Region,E2020-86
+2/14/2020,Transportation,Survival,157,Quezon City,Metro Manila,National Capital Region,E2020-87
+2/14/2020,Eating/Going Out,Optional,170,Quezon City,Metro Manila,National Capital Region,E2020-88
+2/14/2020,Grocery,Survival,965.9,Quezon City,Metro Manila,National Capital Region,E2020-89
+2/15/2020,Food/Drinks,Optional,5,Quezon City,Metro Manila,National Capital Region,E2020-90
+2/16/2020,Transportation,Optional,40,Quezon City,Metro Manila,National Capital Region,E2020-91
+2/16/2020,Eating/Going Out,Optional,245,Quezon City,Metro Manila,National Capital Region,E2020-92
+2/17/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-93
+2/17/2020,Grocery,Survival,179.25,Quezon City,Metro Manila,National Capital Region,E2020-94
+2/17/2020,Transportation,Survival,41,Quezon City,Metro Manila,National Capital Region,E2020-95
+2/18/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-96
+2/18/2020,Food/Drinks,Optional,5,Quezon City,Metro Manila,National Capital Region,E2020-97
+2/18/2020,Transportation,Survival,40,Quezon City,Metro Manila,National Capital Region,E2020-98
+2/18/2020,Home,Obligation,200,Quezon City,Metro Manila,National Capital Region,E2020-99
